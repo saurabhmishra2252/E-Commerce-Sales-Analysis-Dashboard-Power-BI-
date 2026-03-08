@@ -43,4 +43,4 @@ These insights can help businesses optimize product strategy and marketing effor
 
 ##  Dashboard Preview
 
-![E-commerce Sales Dashboard](ecommerce_sales_dashboard.png)
+![e_commerce_sales_dashboard](e_commerce_sales_dashboard.png)
