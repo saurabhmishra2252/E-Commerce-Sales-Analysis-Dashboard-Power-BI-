@@ -40,3 +40,7 @@ Some regions generate significantly higher sales,
 A small number of products drive a large portion of total profit,
 Sales trends vary depending on seasonality and customer demand,
 These insights can help businesses optimize product strategy and marketing efforts.
+
+##  Dashboard Preview
+
+![e-commerce sales dashboard](e-commerce sales dashboard.png)
